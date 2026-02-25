@@ -61,6 +61,3 @@ Minimize expected financial loss
 
 Python, Scikit-Learn, XGBoost, LightGBM, Pandas, NumPy
 
-Python, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
-
-Then commit.
